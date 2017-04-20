@@ -33,6 +33,11 @@
 		<Item Name="Vision Processing FGV.vi" Type="VI" URL="../FGV/Vision Processing FGV.vi"/>
 		<Item Name="Wheel Power FGV.vi" Type="VI" URL="../FGV/Wheel Power FGV.vi"/>
 	</Item>
+	<Item Name="Logging" Type="Folder">
+		<Item Name="Log Everything to Buffer.vi" Type="VI" URL="../Logging/Log Everything to Buffer.vi"/>
+		<Item Name="Obtain Log Queue.vi" Type="VI" URL="../Logging/Obtain Log Queue.vi"/>
+		<Item Name="Write Buffer to Log.vi" Type="VI" URL="../Logging/Write Buffer to Log.vi"/>
+	</Item>
 	<Item Name="Refname" Type="Folder">
 		<Item Name="Controllers.ctl" Type="VI" URL="../Refname/Controllers.ctl"/>
 		<Item Name="Drive Motors.ctl" Type="VI" URL="../Refname/Drive Motors.ctl"/>
@@ -49,15 +54,15 @@
 		<Item Name="Swerve Motors.ctl" Type="VI" URL="../Refname/Swerve Motors.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
-		<Item Name="Approx Equal.vi" Type="VI" URL="../Approx Equal.vi"/>
+		<Item Name="Approx Equal.vi" Type="VI" URL="../Utilities/Approx Equal.vi"/>
 		<Item Name="Check if 0.vi" Type="VI" URL="../Utilities/Check if 0.vi"/>
 		<Item Name="Deadzone.vi" Type="VI" URL="../Utilities/Deadzone.vi"/>
 		<Item Name="Get Motor DevRef.vi" Type="VI" URL="../Utilities/Get Motor DevRef.vi"/>
 		<Item Name="Open Motor.vi" Type="VI" URL="../Utilities/Open Motor.vi"/>
 		<Item Name="Reset Quadrature.vi" Type="VI" URL="../Utilities/Reset Quadrature.vi"/>
-		<Item Name="Rising Edge Detector.vi" Type="VI" URL="../Rising Edge Detector.vi"/>
+		<Item Name="Rising Edge Detector.vi" Type="VI" URL="../Utilities/Rising Edge Detector.vi"/>
 	</Item>
 	<Item Name="Vision" Type="Folder">
-		<Item Name="Figuring out Vision via radio ethernet here.vi" Type="VI" URL="../Vision/Figuring out Vision via radio ethernet here.vi"/>
+		<Item Name="Listen to RPi.vi" Type="VI" URL="../Vision/Listen to RPi.vi"/>
 	</Item>
 </Library>
