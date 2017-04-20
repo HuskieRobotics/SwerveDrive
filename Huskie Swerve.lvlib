@@ -55,9 +55,11 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Approx Equal.vi" Type="VI" URL="../Utilities/Approx Equal.vi"/>
+		<Item Name="Button Toggle Motor.vi" Type="VI" URL="../Utilities/Button Toggle Motor.vi"/>
 		<Item Name="Check if 0.vi" Type="VI" URL="../Utilities/Check if 0.vi"/>
 		<Item Name="Deadzone.vi" Type="VI" URL="../Utilities/Deadzone.vi"/>
 		<Item Name="Get Motor DevRef.vi" Type="VI" URL="../Utilities/Get Motor DevRef.vi"/>
+		<Item Name="Hold Button Motor.vi" Type="VI" URL="../Utilities/Hold Button Motor.vi"/>
 		<Item Name="Open Motor.vi" Type="VI" URL="../Utilities/Open Motor.vi"/>
 		<Item Name="Reset Quadrature.vi" Type="VI" URL="../Utilities/Reset Quadrature.vi"/>
 		<Item Name="Rising Edge Detector.vi" Type="VI" URL="../Utilities/Rising Edge Detector.vi"/>
