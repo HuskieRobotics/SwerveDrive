@@ -12,6 +12,10 @@
 		<Item Name="Read Dips.vi" Type="VI" URL="../Autonomous/Read Dips.vi"/>
 		<Item Name="Set Velocity.vi" Type="VI" URL="../Autonomous/Set Velocity.vi"/>
 	</Item>
+	<Item Name="Begin" Type="Folder">
+		<Item Name="Open Motor.vi" Type="VI" URL="../Utilities/Open Motor.vi"/>
+		<Item Name="Reset Quadrature.vi" Type="VI" URL="../Utilities/Reset Quadrature.vi"/>
+	</Item>
 	<Item Name="Drive" Type="Folder">
 		<Item Name="Apply Constants.vi" Type="VI" URL="../Drive/Apply Constants.vi"/>
 		<Item Name="Atan2 to +-Pi Scale.vi" Type="VI" URL="../Drive/Atan2 to +-Pi Scale.vi"/>
@@ -30,7 +34,6 @@
 	<Item Name="FGVs" Type="Folder">
 		<Item Name="Auto Mode FGV.vi" Type="VI" URL="../FGV/Auto Mode FGV.vi"/>
 		<Item Name="Swerve Setpoints FGV.vi" Type="VI" URL="../FGV/Swerve Setpoints FGV.vi"/>
-		<Item Name="Vision Processing FGV.vi" Type="VI" URL="../FGV/Vision Processing FGV.vi"/>
 		<Item Name="Wheel Power FGV.vi" Type="VI" URL="../FGV/Wheel Power FGV.vi"/>
 	</Item>
 	<Item Name="Logging" Type="Folder">
@@ -60,8 +63,6 @@
 		<Item Name="Deadzone.vi" Type="VI" URL="../Utilities/Deadzone.vi"/>
 		<Item Name="Get Motor DevRef.vi" Type="VI" URL="../Utilities/Get Motor DevRef.vi"/>
 		<Item Name="Hold Button Motor.vi" Type="VI" URL="../Utilities/Hold Button Motor.vi"/>
-		<Item Name="Open Motor.vi" Type="VI" URL="../Utilities/Open Motor.vi"/>
-		<Item Name="Reset Quadrature.vi" Type="VI" URL="../Utilities/Reset Quadrature.vi"/>
 		<Item Name="Rising Edge Detector.vi" Type="VI" URL="../Utilities/Rising Edge Detector.vi"/>
 	</Item>
 	<Item Name="Vision" Type="Folder">
