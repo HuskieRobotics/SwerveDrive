@@ -8,64 +8,64 @@
 
 </Property>
 	<Item Name="Autonomous" Type="Folder">
-		<Item Name="Drive Straight.vi" Type="VI" URL="../Autonomous/Drive Straight.vi"/>
-		<Item Name="Read Dips.vi" Type="VI" URL="../Autonomous/Read Dips.vi"/>
-		<Item Name="Set Velocity.vi" Type="VI" URL="../Autonomous/Set Velocity.vi"/>
+		<Item Name="Drive Straight.vi" Type="VI" URL="../Drive Straight.vi"/>
+		<Item Name="Read Dips.vi" Type="VI" URL="../Read Dips.vi"/>
+		<Item Name="Set Velocity.vi" Type="VI" URL="../Set Velocity.vi"/>
 	</Item>
 	<Item Name="Begin" Type="Folder">
-		<Item Name="Open Motor.vi" Type="VI" URL="../Utilities/Open Motor.vi"/>
-		<Item Name="Reset Quadrature.vi" Type="VI" URL="../Utilities/Reset Quadrature.vi"/>
+		<Item Name="Open Motor.vi" Type="VI" URL="../Open Motor.vi"/>
+		<Item Name="Reset Quadrature.vi" Type="VI" URL="../Reset Quadrature.vi"/>
 	</Item>
 	<Item Name="Drive" Type="Folder">
-		<Item Name="Apply Constants.vi" Type="VI" URL="../Drive/Apply Constants.vi"/>
-		<Item Name="Atan2 to +-Pi Scale.vi" Type="VI" URL="../Drive/Atan2 to +-Pi Scale.vi"/>
-		<Item Name="Calculate Constants.vi" Type="VI" URL="../Drive/Calculate Constants.vi"/>
-		<Item Name="Curve Drive.vi" Type="VI" URL="../Drive/Curve Drive.vi"/>
-		<Item Name="Drive Direction.vi" Type="VI" URL="../Drive/Drive Direction.vi"/>
-		<Item Name="Drive Handling.vi" Type="VI" URL="../Drive/Drive Handling.vi"/>
-		<Item Name="Field Relative Swerve.vi" Type="VI" URL="../Drive/Field Relative Swerve.vi"/>
-		<Item Name="Find Max Hypotenuse or 1.vi" Type="VI" URL="../Drive/Find Max Hypotenuse or 1.vi"/>
-		<Item Name="Radians to Ticks.vi" Type="VI" URL="../Drive/Radians to Ticks.vi"/>
-		<Item Name="Swerve Drive.vi" Type="VI" URL="../Drive/Swerve Drive.vi"/>
-		<Item Name="Tank Drive.vi" Type="VI" URL="../Drive/Tank Drive.vi"/>
-		<Item Name="Ticks To Radians.vi" Type="VI" URL="../Drive/Ticks To Radians.vi"/>
-		<Item Name="X Button.vi" Type="VI" URL="../Drive/X Button.vi"/>
+		<Item Name="Apply Constants.vi" Type="VI" URL="../Apply Constants.vi"/>
+		<Item Name="Atan2 to +-Pi Scale.vi" Type="VI" URL="../Atan2 to +-Pi Scale.vi"/>
+		<Item Name="Calculate Constants.vi" Type="VI" URL="../Calculate Constants.vi"/>
+		<Item Name="Curve Drive.vi" Type="VI" URL="../Curve Drive.vi"/>
+		<Item Name="Drive Direction.vi" Type="VI" URL="../Drive Direction.vi"/>
+		<Item Name="Drive Handling.vi" Type="VI" URL="../Drive Handling.vi"/>
+		<Item Name="Field Relative Swerve.vi" Type="VI" URL="../Field Relative Swerve.vi"/>
+		<Item Name="Find Max Hypotenuse or 1.vi" Type="VI" URL="../Find Max Hypotenuse or 1.vi"/>
+		<Item Name="Radians to Ticks.vi" Type="VI" URL="../Radians to Ticks.vi"/>
+		<Item Name="Swerve Drive.vi" Type="VI" URL="../Swerve Drive.vi"/>
+		<Item Name="Tank Drive.vi" Type="VI" URL="../Tank Drive.vi"/>
+		<Item Name="Ticks To Radians.vi" Type="VI" URL="../Ticks To Radians.vi"/>
+		<Item Name="X Button.vi" Type="VI" URL="../X Button.vi"/>
 	</Item>
 	<Item Name="FGVs" Type="Folder">
-		<Item Name="Auto Mode FGV.vi" Type="VI" URL="../FGV/Auto Mode FGV.vi"/>
-		<Item Name="Swerve Setpoints FGV.vi" Type="VI" URL="../FGV/Swerve Setpoints FGV.vi"/>
-		<Item Name="Wheel Power FGV.vi" Type="VI" URL="../FGV/Wheel Power FGV.vi"/>
+		<Item Name="Auto Mode FGV.vi" Type="VI" URL="../Auto Mode FGV.vi"/>
+		<Item Name="Swerve Setpoints FGV.vi" Type="VI" URL="../Swerve Setpoints FGV.vi"/>
+		<Item Name="Wheel Power FGV.vi" Type="VI" URL="../Wheel Power FGV.vi"/>
 	</Item>
 	<Item Name="Logging" Type="Folder">
-		<Item Name="Log Everything to Buffer.vi" Type="VI" URL="../Logging/Log Everything to Buffer.vi"/>
-		<Item Name="Obtain Log Queue.vi" Type="VI" URL="../Logging/Obtain Log Queue.vi"/>
-		<Item Name="Write Buffer to Log.vi" Type="VI" URL="../Logging/Write Buffer to Log.vi"/>
+		<Item Name="Log Everything to Buffer.vi" Type="VI" URL="../Log Everything to Buffer.vi"/>
+		<Item Name="Obtain Log Queue.vi" Type="VI" URL="../Obtain Log Queue.vi"/>
+		<Item Name="Write Buffer to Log.vi" Type="VI" URL="../Write Buffer to Log.vi"/>
 	</Item>
 	<Item Name="Refname" Type="Folder">
-		<Item Name="Controllers.ctl" Type="VI" URL="../Refname/Controllers.ctl"/>
-		<Item Name="Drive Motors.ctl" Type="VI" URL="../Refname/Drive Motors.ctl"/>
-		<Item Name="Huskie Board.ctl" Type="VI" URL="../Refname/Huskie Board.ctl"/>
-		<Item Name="Other Motors.ctl" Type="VI" URL="../Refname/Other Motors.ctl"/>
-		<Item Name="Refname to String (Controllers).vi" Type="VI" URL="../Refname/Refname to String (Controllers).vi"/>
-		<Item Name="Refname to String (Drive).vi" Type="VI" URL="../Refname/Refname to String (Drive).vi"/>
-		<Item Name="Refname to String (Huskie Board).vi" Type="VI" URL="../Refname/Refname to String (Huskie Board).vi"/>
-		<Item Name="Refname to String (Other Motors).vi" Type="VI" URL="../Refname/Refname to String (Other Motors).vi"/>
-		<Item Name="Refname to String (Sensors).vi" Type="VI" URL="../Refname/Refname to String (Sensors).vi"/>
-		<Item Name="Refname to String (Swerve).vi" Type="VI" URL="../Refname/Refname to String (Swerve).vi"/>
-		<Item Name="Refname to String.vi" Type="VI" URL="../Refname/Refname to String.vi"/>
-		<Item Name="Sensors.ctl" Type="VI" URL="../Refname/Sensors.ctl"/>
-		<Item Name="Swerve Motors.ctl" Type="VI" URL="../Refname/Swerve Motors.ctl"/>
+		<Item Name="Controllers.ctl" Type="VI" URL="../Controllers.ctl"/>
+		<Item Name="Drive Motors.ctl" Type="VI" URL="../Drive Motors.ctl"/>
+		<Item Name="Huskie Board.ctl" Type="VI" URL="../Huskie Board.ctl"/>
+		<Item Name="Other Motors.ctl" Type="VI" URL="../Other Motors.ctl"/>
+		<Item Name="Refname to String (Controllers).vi" Type="VI" URL="../Refname to String (Controllers).vi"/>
+		<Item Name="Refname to String (Drive).vi" Type="VI" URL="../Refname to String (Drive).vi"/>
+		<Item Name="Refname to String (Huskie Board).vi" Type="VI" URL="../Refname to String (Huskie Board).vi"/>
+		<Item Name="Refname to String (Other Motors).vi" Type="VI" URL="../Refname to String (Other Motors).vi"/>
+		<Item Name="Refname to String (Sensors).vi" Type="VI" URL="../Refname to String (Sensors).vi"/>
+		<Item Name="Refname to String (Swerve).vi" Type="VI" URL="../Refname to String (Swerve).vi"/>
+		<Item Name="Refname to String.vi" Type="VI" URL="../Refname to String.vi"/>
+		<Item Name="Sensors.ctl" Type="VI" URL="../Sensors.ctl"/>
+		<Item Name="Swerve Motors.ctl" Type="VI" URL="../Swerve Motors.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
-		<Item Name="Approx Equal.vi" Type="VI" URL="../Utilities/Approx Equal.vi"/>
-		<Item Name="Button Toggle Motor.vi" Type="VI" URL="../Utilities/Button Toggle Motor.vi"/>
-		<Item Name="Check if 0.vi" Type="VI" URL="../Utilities/Check if 0.vi"/>
-		<Item Name="Deadzone.vi" Type="VI" URL="../Utilities/Deadzone.vi"/>
-		<Item Name="Get Motor DevRef.vi" Type="VI" URL="../Utilities/Get Motor DevRef.vi"/>
-		<Item Name="Hold Button Motor.vi" Type="VI" URL="../Utilities/Hold Button Motor.vi"/>
-		<Item Name="Rising Edge Detector.vi" Type="VI" URL="../Utilities/Rising Edge Detector.vi"/>
+		<Item Name="Approx Equal.vi" Type="VI" URL="../Approx Equal.vi"/>
+		<Item Name="Button Toggle Motor.vi" Type="VI" URL="../Button Toggle Motor.vi"/>
+		<Item Name="Check if 0.vi" Type="VI" URL="../Check if 0.vi"/>
+		<Item Name="Deadzone.vi" Type="VI" URL="../Deadzone.vi"/>
+		<Item Name="Get Motor DevRef.vi" Type="VI" URL="../Get Motor DevRef.vi"/>
+		<Item Name="Hold Button Motor.vi" Type="VI" URL="../Hold Button Motor.vi"/>
+		<Item Name="Rising Edge Detector.vi" Type="VI" URL="../Rising Edge Detector.vi"/>
 	</Item>
 	<Item Name="Vision" Type="Folder">
-		<Item Name="Listen to RPi.vi" Type="VI" URL="../Vision/Listen to RPi.vi"/>
+		<Item Name="Listen to RPi.vi" Type="VI" URL="../Listen to RPi.vi"/>
 	</Item>
 </Library>
